@@ -8,9 +8,10 @@ Check out our project website <https://cake.schwarz>.
 
 ## What I am
 
-This is the fundamental library to our User Interface Design Kit for creating new products or websites for the Lidl company. The CAKE UI Fundamental is a rudimentary symbol library with an own description of its use.
+- This is the fundamental library to our various UI Design kits for creating new products or websites for the Lidl company.
+- The CAKE UI Fundamental is a rudimentary symbol library with an own description of its use.
 
-> The purpose of this readme file is to simply show the changes made to our old CAKE design system to our new one.   
+> The purpose of this readme file is to simply show the changes made to our old CAKE design system to our new one.
 
 All used components meet the following requirements to find their way into our fundamental:
 
@@ -21,7 +22,7 @@ All used components meet the following requirements to find their way into our f
 
 ## Contact
 
-You have questions or need help? Feel free to mail us at <cake@lidl.com>
+- You have questions or need help? Feel free to mail us at <cake@lidl.com>
 
 ---
 
