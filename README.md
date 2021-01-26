@@ -2,18 +2,19 @@
 
 ## Who we are
 
-CAKE is a design system and frontend framework for the whole "[Schwarz Gruppe](https://jobs.schwarz/)". We offer tools, guidelines and systems to develop faster products that match the CI.
+- CAKE is a design system and frontend framework for the whole [SCHWARZ enterprise](https://jobs.schwarz/).
+- We offer tools, guidelines and systems to develop faster products that match the CI.
 
-Check out our project website <https://cake.schwarz>.
+Check out our project website under [cake.schwarz](https://cake.schwarz).
 
 ## What I am
 
-- This is the fundamental library to our various UI Design kits for creating new products or websites for the Lidl company.
+- This is the fundamental library to our various UI Design kits for creating new products or websites for the LIDL company.
 - The CAKE UI Fundamental is a rudimentary symbol library with an own description of its use.
 
 > The purpose of this readme file is to simply show the changes made to our old CAKE design system to our new one.
 
-All used components meet the following requirements to find their way into our fundamental:
+All used components meet the following requirements to find their way into our fundamental library:
 
   1. **The components donate our Corporate Design and generate digital awareness.**
   2. **The components can't be modified or changed in general – only in conjunction with a significant effort.**
@@ -22,7 +23,7 @@ All used components meet the following requirements to find their way into our f
 
 ## Contact
 
-- You have questions or need help? Feel free to mail us at <cake@lidl.com>
+- You have questions or need help? Feel free to [get in touch](mailto:cake@lidl.com) with us.
 
 ---
 
@@ -30,9 +31,9 @@ All used components meet the following requirements to find their way into our f
 
 | Name | Position | Mail |
 |----|---|----|
-| Eva Zimmermann | UI/UX Designer | eva.zimmermann@lidl.com |
-| Martin Hofmann | UI/UX Designer | martin.hofmann@lidl.com |
-| Jeremias Ehnle | Developer | jeremias.ehnle@lidl.com |
-| Matthias Maier | Developer | matthias.maier@lidl.com |
-| Philipp Krüger | Developer | philipp.krueger@lidl.com |
 | Oliver Runge | Product Owner | oliver.runge@lidl.com |
+| Matthias Maier | Developer/Scrum Master | matthias.maier@lidl.com |
+| Jeremias Ehnle | Developer | jeremias.ehnle@lidl.com |
+| Philipp Krüger | Developer | philipp.krueger@lidl.com |
+| Jasmin Sipahi | UI/UX Designer | jasmin.sipahi@lidl.com |
+| Martin Hofmann | UI/UX Designer | martin.hofmann@lidl.com |
