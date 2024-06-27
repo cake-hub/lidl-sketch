@@ -32,7 +32,5 @@ All used components meet the following requirements to find their way into our f
 | Name | Position | Mail |
 |----|---|----|
 | Michael Bahlmann | Product Owner | michael.bahlmann@lidl.com |
-| Jeremias Ehnle | Developer | jeremias.ehnle@lidl.com |
 | Philipp Krüger | Developer | philipp.krueger@lidl.com |
 | Jasmin Sipahi | UI/UX Designer | jasmin.sipahi@lidl.com |
-| Dinko Karacic | UI/UX Designer | dinko.karacic@lidl.com |
